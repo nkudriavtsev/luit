@@ -3,4 +3,4 @@
  *
  * http://invisible-island.net/luit/
  */
-#define LUIT_VERSION "2.0-20160508"
+#define LUIT_VERSION "2.0-20180108"
