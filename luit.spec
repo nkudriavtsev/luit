@@ -13,7 +13,7 @@ the locale's encoding into UTF-8, and convert terminal input from UTF-8 into
 the locale's encoding. It is mainly used to support xterm.
 
 %prep
-%setup -q
+%setup -q -n luit-master
 
 %build
 %configure
