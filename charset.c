@@ -102,7 +102,7 @@ static FontencCharsetRec fontencCharsets[] =
     {"KOI8-R",         T_128,   0,   "koi8-r",           0x80,   0, 0},
     {"KOI8-U",         T_128,   0,   "koi8-u",           0x80,   0, 0},
     {"KOI8-RU",        T_128,   0,   "koi8-ru",          0x80,   0, 0},
-    {"KOI7-N1",        T_96,    '@', "koi7-n1",          0x80,   0, 0},
+    {"KOI7-N1",        T_96,    0,   "koi7-n1",          0x00,   0, 0},
     {"CP 1250",        T_128,   0,   "microsoft-cp1250", 0x80,   0, 0},
     {"CP 1251",        T_128,   0,   "microsoft-cp1251", 0x80,   0, 0},
     {"CP 1252",        T_128,   0,   "microsoft-cp1252", 0x80,   0, 0},
