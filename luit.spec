@@ -1,7 +1,7 @@
 Summary:    luit is a filter that can be run between an application and a UTF-8 terminal emulator
 Name:       luit
-Version:    2.0-20180109
-Release:    1%{?dist}
+Version:    2.0
+Release:    20180109.1%{?dist}
 License:    MIT
 URL:        http://invisible-island.net/luit/luit.html
 Source0:    https://github.com/nkudriavtsev/luit/archive/master.zip
