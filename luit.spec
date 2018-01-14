@@ -4,7 +4,7 @@ Version:    2.0
 Release:    20180109.1%{?dist}
 License:    MIT
 URL:        http://invisible-island.net/luit/luit.html
-Source0:    https://github.com/nkudriavtsev/luit/archive/master.zip
+Source:     https://github.com/nkudriavtsev/luit/archive/master/luit.tar.gz
 
 %description
 Luit is a filter that can be run between an arbitrary application and
@@ -27,5 +27,5 @@ make %{?_smp_mflags}
 %{_mandir}/man1/luit.1*
 
 %changelog
-* Fri Jan 12 2018 Nicholas Kudriavtsev <nkudriavtsevg@gmail.com> - 2.0-20180109-1
+* Fri Jan 12 2018 Nicholas Kudriavtsev <nkudriavtsevg@gmail.com> - 2.0-20180109.1
 - Initial spec file
